@@ -1,5 +1,5 @@
-import Lib.*;
-import Lib.Discount.*;
+import lib.*;
+import lib.Discount.*;
 
 public class Test{
 
