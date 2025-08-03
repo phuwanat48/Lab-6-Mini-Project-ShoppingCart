@@ -1,5 +1,4 @@
 import lib.*;
-import lib.Discount.*;
 
 
 public class Test1 {

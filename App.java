@@ -1,7 +1,7 @@
 import lib.*;
 import lib.Discount.*;
 
-public class Test{
+public class App{
 
     private static int passedCount = 0;
     private static int failedCount = 0;
